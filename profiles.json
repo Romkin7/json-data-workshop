@@ -1,0 +1,127 @@
+{
+  "title": "User Profiles Spring 2021",
+  "profiles": [
+    {
+      "name": "John Doe",
+      "age": 34,
+      "gender": "male",
+      "places": [
+        {
+          "city": "New-York",
+          "country": "US"
+        },
+        {
+          "city": "Tokyo",
+          "country": "Japan"
+        },
+        {
+          "city": "Moscow",
+          "country": "Russia"
+        }
+      ]
+    },
+    {
+      "name": "Jane Doe",
+      "age": 32,
+      "gender": "female",
+      "places": [
+        {
+          "city": "Chicago",
+          "country": "US"
+        },
+        {
+          "city": "Peking",
+          "country": "China"
+        },
+        {
+          "city": "Paris",
+          "country": "France"
+        }
+      ]
+    },
+    {
+      "name": "Mike Dowell",
+      "age": 12,
+      "gender": "male",
+      "places": [
+        {
+          "city": "Chicago",
+          "country": "US"
+        },
+        {
+          "city": "Peking",
+          "country": "China"
+        },
+        {
+          "city": "Paris",
+          "country": "France"
+        }
+      ]
+    },
+    {
+      "name": "Jessica Parker",
+      "age": 56,
+      "gender": "female",
+      "places": [
+        {
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "city": "London",
+          "country": "UK"
+        },
+        {
+          "city": "Paris",
+          "country": "France"
+        }
+      ]
+    },
+    {
+      "name": "Ben Doe",
+      "age": 67,
+      "gender": "male",
+      "places": [
+        {
+          "city": "Amsterdam",
+          "country": "Holland"
+        },
+        {
+          "city": "Peking",
+          "country": "China"
+        },
+        {
+          "city": "New-York",
+          "country": "US"
+        }
+      ]
+    },
+    {
+      "name": "Kate Brown",
+      "age": 21,
+      "gender": "female",
+      "places": [
+        {
+          "city": "Helsinki",
+          "country": "Finland"
+        },
+        {
+          "city": "Rome",
+          "country": "Italy"
+        },
+        {
+          "city": "Dublin",
+          "country": "Ireland"
+        },
+        {
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "city": "Madrid",
+          "country": "Spain"
+        }
+      ]
+    }
+  ]
+}
